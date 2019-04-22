@@ -20,4 +20,4 @@ emr cluster conf
           "spark.executor.extraClassPath": ":/opt/alluxio-1.8.1-hadoop-2.8/client/alluxio-1.8.1-client.jar"
      }
   }
-]```
+]
