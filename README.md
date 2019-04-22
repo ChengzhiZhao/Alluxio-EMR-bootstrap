@@ -3,6 +3,8 @@ bootstrap script for Alluxio on EMR
 
 Inspire by https://github.com/kernel164/emr-bootstrap-alluxio but with Alluxio 1.8.1 on EMR 5.17
 
+Blog post about how to setup Alluxio on EMR: [Alluxio on EMR: fast storage access and sharing for Spark jobs](https://medium.com/@chengzhizhao/alluxio-on-emr-fast-storage-access-and-sharing-for-spark-jobs-fa7bfb71f24f)
+
 EMR cluster configurations
 
 ```
