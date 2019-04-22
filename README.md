@@ -5,7 +5,8 @@ Inspire by https://github.com/kernel164/emr-bootstrap-alluxio but with Alluxio 1
 
 emr cluster conf
 
-```[
+```
+[
   {
     "Classification": "core-site",
     "Properties": {
@@ -21,3 +22,4 @@ emr cluster conf
      }
   }
 ]
+```
